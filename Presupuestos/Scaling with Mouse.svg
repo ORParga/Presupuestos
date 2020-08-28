@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Scaling with Mouse.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5213"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="127.96106"
+     inkscape:cy="725.13645"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-7"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="-24.120665"
+       y="50.106743"
+       id="text4541-2-8-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4770">ScreenWidthWrk1</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98039216"
+       id="rect4518"
+       width="86.060791"
+       height="73.23185"
+       x="40.090431"
+       y="36.679478"
+       ry="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <rect
+       style="opacity:0.98000004;fill:#009aff;fill-opacity:1;fill-rule:nonzero;stroke:#00fcff;stroke-width:0.45688176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4518-5"
+       width="41.702629"
+       height="31.546383"
+       x="61.467701"
+       y="56.720402"
+       ry="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <path
+       style="fill:none;stroke:#0000fe;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 68.153729,48.973877 V 76.235369"
+       id="path4535"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 53.186636,61.802816 H 80.448128"
+       id="path4537"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.153725"
+       y="48.973877"
+       id="text4541"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4539"
+         x="68.153725"
+         y="48.973877"
+         style="stroke-width:0.26458332;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:2.82222222px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">Mouse</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff01;stroke-width:0.31837365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 40.419849,57.363095 H 61.161252"
+       id="path4537-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="40.069538"
+       y="55.986538"
+       id="text4541-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4774">ScreenOriginWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="38.072342"
+       y="33.538486"
+       id="text4541-8-0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4604">Origin_WorkArea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="110.45478"
+       y="120.18952"
+       id="text4541-8-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4778"
+         x="110.45478"
+         y="120.18952">Scale2</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4626"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion4628"><rect
+           id="rect4630"
+           width="60.714287"
+           height="23.571428"
+           x="196.42857"
+           y="465.37683" /></flowRegion><flowPara
+         id="flowPara4632">Screen</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 61.601335,53.646801 H 103.30396"
+       id="path4656"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00f0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="81.015892"
+       y="51.719852"
+       id="text4541-2"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4676">ScreenWidthScr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="80.770996"
+       y="48.956932"
+       id="text4541-2-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4772">ScreenWidthWrk2</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70085478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98039216"
+       id="rect4518-7"
+       width="60.31612"
+       height="51.324894"
+       x="-53.961483"
+       y="45.124115"
+       ry="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <rect
+       style="opacity:0.98000004;fill:#009aff;fill-opacity:1;fill-rule:nonzero;stroke:#00fcff;stroke-width:0.45688176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4518-5-6"
+       width="41.702629"
+       height="31.546383"
+       x="-43.423962"
+       y="57.870209"
+       ry="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <path
+       style="fill:none;stroke:#0000fe;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -36.737926,50.123683 V 77.38518"
+       id="path4535-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -51.705026,62.95262 h 27.26149"
+       id="path4537-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-36.737926"
+       y="50.123688"
+       id="text4541-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4539-8"
+         x="-36.737926"
+         y="50.123688"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Mouse</tspan></text>
+    <path
+       style="fill:none;stroke:#00ff01;stroke-width:0.18420112;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -53.541614,59.525835 h 9.906502"
+       id="path4537-5-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-81.526466"
+       y="61.14539"
+       id="text4541-8-2"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4768"
+         x="-81.526466"
+         y="61.14539">ScreenOriginWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-60.271217"
+       y="42.038204"
+       id="text4541-8-0-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="42.038204"
+         x="-60.271217"
+         sodipodi:role="line"
+         id="tspan4604-8">Origin_WorkArea</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="0.46083611"
+       y="103.18236"
+       id="text4541-8-9-3"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4776"
+         x="0.46083611"
+         y="103.18236">Scale1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -43.290326,54.796607 H -1.5876963"
+       id="path4656-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00f0ff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-23.875776"
+       y="52.869659"
+       id="text4541-2-3"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="52.869659"
+         x="-23.875776"
+         sodipodi:role="line"
+         id="tspan4676-2">ScreenWidthScr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00baff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="-32.913063"
+       y="103.27057"
+       id="text4541-8-0-8-1"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4872">-Origin_WorkAreaScr1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-63.362049"
+       y="103.20638"
+       id="text4541-8-2-0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4768-2"
+         x="-63.362049"
+         y="103.20638">ScreenOriginWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-36.348656"
+       y="102.96233"
+       id="text4820"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818"
+         x="-36.348656"
+         y="102.96233"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-2.271791"
+       y="102.96233"
+       id="text4826"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824"
+         x="-2.271791"
+         y="102.96233"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00baff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="76.844864"
+       y="120.13461"
+       id="text4541-8-0-8-1-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4874">-Origin_WorkAreaScr1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="46.395874"
+       y="120.07043"
+       id="text4541-8-2-0-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4870">ScreenOriginWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="73.409271"
+       y="119.82638"
+       id="text4820-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818-6"
+         x="73.409271"
+         y="119.82638"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.48613"
+       y="119.82638"
+       id="text4826-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824-7"
+         x="107.48613"
+         y="119.82638"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-34.255276"
+       y="110.9741"
+       id="text4820-2"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818-7"
+         x="-34.255276"
+         y="110.9741"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-30.238094"
+       y="111.03571"
+       id="text4914"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4912"
+         x="-30.238094"
+         y="111.03571"
+         style="stroke-width:0.26458332">Screen1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-52.31958"
+       y="117.97292"
+       id="text4936"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4934"
+         x="-52.31958"
+         y="117.97292"
+         style="stroke-width:0.26458332">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="-48.643051"
+       y="118.33032"
+       id="text4940"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4988">MouseScr1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-18.040693"
+       y="118.19669"
+       id="text4944"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4942"
+         x="-18.040693"
+         y="118.19669"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-60.68935"
+       y="110.95719"
+       id="text4541-8-2-0-1"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4768-2-9"
+         x="-60.68935"
+         y="110.95719">ScreenOriginWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-14.953306"
+       y="118.28857"
+       id="text4940-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4986"
+         x="-14.953306"
+         y="118.28857">MouseWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-28.897654"
+       y="118.44699"
+       id="text4541-8-9-3-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4776-9"
+         x="-28.897654"
+         y="118.44699">Scale1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-31.63028"
+       y="118.22698"
+       id="text4826-3"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824-2"
+         x="-31.63028"
+         y="118.22698"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-78.462776"
+       y="118.57436"
+       id="text4541-8-2-0-1-1"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4768-2-9-3"
+         x="-78.462776"
+         y="118.57436">ScreenOriginWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="72.205589"
+       y="124.77392"
+       id="text4936-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4934-1"
+         x="72.205589"
+         y="124.77392"
+         style="stroke-width:0.26458332">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="75.882118"
+       y="125.13132"
+       id="text4940-2"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5088">MouseScr2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="106.48447"
+       y="124.99769"
+       id="text4944-0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4942-2"
+         x="106.48447"
+         y="124.99769"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="109.57186"
+       y="125.08956"
+       id="text4940-9-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5090">MouseWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="95.627518"
+       y="125.24799"
+       id="text4541-8-9-3-7-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5092">Scale2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="92.89489"
+       y="125.02798"
+       id="text4826-3-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824-2-0"
+         x="92.89489"
+         y="125.02798"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="46.062393"
+       y="125.37536"
+       id="text4541-8-2-0-1-1-3"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5086">ScreenOriginWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="3.1213551"
+       y="122.67118"
+       id="text4940-9-6"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4986-6"
+         x="3.1213551"
+         y="122.67118">MouseWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="20.551275"
+       y="122.31339"
+       id="text4820-7-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818-6-7"
+         x="20.551275"
+         y="122.31339"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="23.732082"
+       y="122.67118"
+       id="text4940-9-9-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="122.67118"
+         x="23.732082"
+         sodipodi:role="line"
+         id="tspan5090-3">MouseWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="4.3541083"
+       y="126.9931"
+       id="text4940-5"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="126.9931"
+         x="4.3541083"
+         sodipodi:role="line"
+         id="tspan4988-8">MouseScr1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="20.551273"
+       y="127.03809"
+       id="text4820-7-7-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818-6-7-0"
+         x="20.551273"
+         y="127.03809"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="24.208883"
+       y="126.42614"
+       id="text4940-2-6"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="126.42614"
+         x="24.208883"
+         sodipodi:role="line"
+         id="tspan5088-5">MouseScr2</tspan></text>
+    <rect
+       style="opacity:0.98000004;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000001;stroke-width:0.36500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5202"
+       width="40.254463"
+       height="10.394353"
+       x="1.7008928"
+       y="118.40625"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-8.9236841"
+       y="139.02859"
+       id="text4541-8-2-0-1-1-3-5"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="139.02859"
+         x="-8.9236841"
+         sodipodi:role="line"
+         id="tspan5086-8">ScreenOriginWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="18.094431"
+       y="138.37738"
+       id="text4820-7-0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818-6-0"
+         x="18.094431"
+         y="138.37738"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="22.598154"
+       y="138.73517"
+       id="text4940-9-9-1"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="138.73517"
+         x="22.598154"
+         sodipodi:role="line"
+         id="tspan5090-6">MouseWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="39.476021"
+       y="138.62546"
+       id="text4936-8-4"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5574"
+         x="39.476021"
+         y="138.62546">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.697784"
+       y="138.65202"
+       id="text4940-2-5"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="138.65202"
+         x="42.697784"
+         sodipodi:role="line"
+         id="tspan5088-7">MouseScr2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="62.443184"
+       y="138.76869"
+       id="text4541-8-9-3-7-7-9"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="138.76869"
+         x="62.443184"
+         sodipodi:role="line"
+         id="tspan5092-3">Scale2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="59.710556"
+       y="138.54868"
+       id="text4826-3-9-2"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824-2-0-2"
+         x="59.710556"
+         y="138.54868"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="142.88239"
+       y="67.08387"
+       id="text4940-8"><tspan
+         style="stroke-width:0.26458332"
+         y="67.08387"
+         x="142.88239"
+         sodipodi:role="line"
+         id="tspan4988-80">MouseScr1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="158.70157"
+       y="66.372902"
+       id="text4944-5"><tspan
+         sodipodi:role="line"
+         id="tspan4942-5"
+         x="158.70157"
+         y="66.372902"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="180.43137"
+       y="64.567284"
+       id="text4541-8-2-0-1-1-2"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4768-2-9-3-0"
+         x="180.43137"
+         y="64.567284">ScreenOriginWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="161.87135"
+       y="65.029823"
+       id="text4940-9-0"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4986-5"
+         x="161.87135"
+         y="65.029823">MouseWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="178.65154"
+       y="64.561775"
+       id="text4936-8-4-4"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan5574-3"
+         x="178.65154"
+         y="64.561775">-</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 161.77381,65.489579 h 44.79018"
+       id="path5696"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="177.71506"
+       y="68.809563"
+       id="text4541-8-9-3-7-5"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4776-9-6"
+         x="177.71506"
+         y="68.809563">Scale1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-23.475767"
+       y="149.80092"
+       id="text4541-8-2-0-1-1-3-5-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="149.80092"
+         x="-23.475767"
+         sodipodi:role="line"
+         id="tspan5086-8-9">ScreenOriginWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.5974052"
+       y="149.71666"
+       id="text4820-7-0-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818-6-0-9"
+         x="2.5974052"
+         y="149.71666"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.554855"
+       y="149.31279"
+       id="text4936-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4934-17"
+         x="33.554855"
+         y="149.31279"
+         style="stroke-width:0.26458332">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="37.231384"
+       y="149.67018"
+       id="text4940-1"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="149.67018"
+         x="37.231384"
+         sodipodi:role="line"
+         id="tspan4988-4">MouseScr1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.976784"
+       y="149.78685"
+       id="text4541-8-9-3-7-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4776-9-2"
+         x="56.976784"
+         y="149.78685">Scale1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.244156"
+       y="149.56685"
+       id="text4826-3-6"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824-2-2"
+         x="54.244156"
+         y="149.56685"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="7.4116583"
+       y="149.91423"
+       id="text4541-8-2-0-1-1-25"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4768-2-9-3-1"
+         x="7.4116583"
+         y="149.91423">ScreenOriginWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="67.992805"
+       y="149.58678"
+       id="text4936-8-4-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan5574-1"
+         x="67.992805"
+         y="149.58678">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="71.214569"
+       y="149.61334"
+       id="text4940-2-5-6"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="149.61334"
+         x="71.214569"
+         sodipodi:role="line"
+         id="tspan5088-7-8">MouseScr2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="90.959969"
+       y="149.73001"
+       id="text4541-8-9-3-7-7-9-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="149.73001"
+         x="90.959969"
+         sodipodi:role="line"
+         id="tspan5092-3-2">Scale2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="88.227341"
+       y="149.50999"
+       id="text4826-3-9-2-1"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824-2-0-2-3"
+         x="88.227341"
+         y="149.50999"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-23.689705"
+       y="159.26265"
+       id="text4541-8-2-0-1-1-3-5-8-3"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="159.26265"
+         x="-23.689705"
+         sodipodi:role="line"
+         id="tspan5086-8-9-7">ScreenOriginWrk2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="2.3834615"
+       y="159.17839"
+       id="text4820-7-0-8-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4818-6-0-9-7"
+         x="2.3834615"
+         y="159.17839"
+         style="stroke-width:0.26458332">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="33.340916"
+       y="158.77452"
+       id="text4936-7-0"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4934-17-1"
+         x="33.340916"
+         y="158.77452"
+         style="stroke-width:0.26458332">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222222px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#00dbff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="37.017441"
+       y="159.13191"
+       id="text4940-1-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5908">MouseScr</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="58.841713"
+       y="159.05959"
+       id="text4541-8-9-3-7-8-7"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4776-9-2-0"
+         x="58.841713"
+         y="159.05959">Scale1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="54.030216"
+       y="159.02858"
+       id="text4826-3-6-6"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan4824-2-2-4"
+         x="54.030216"
+         y="159.02858"
+         style="stroke-width:0.26458332">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#00ec00;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="7.1977201"
+       y="159.37596"
+       id="text4541-8-2-0-1-1-25-8"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan4768-2-9-3-1-3"
+         x="7.1977201"
+         y="159.37596">ScreenOriginWrk1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="69.857742"
+       y="158.85951"
+       id="text4936-8-4-7-2"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         sodipodi:role="line"
+         id="tspan5574-1-1"
+         x="69.857742"
+         y="158.85951">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="72.414192"
+       y="159.19174"
+       id="text4541-8-9-3-7-7-9-8-3"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         style="stroke-width:0.26458332"
+         y="159.19174"
+         x="72.414192"
+         sodipodi:role="line"
+         id="tspan5092-3-2-8">Scale2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.965775"
+       y="158.9442"
+       id="text5912"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5910"
+         x="82.965775"
+         y="158.9442"
+         style="stroke-width:0.26458332">)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:20.85149956;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="56.979908"
+       y="159.0387"
+       id="text5916"
+       inkscape:export-xdpi="101.3"
+       inkscape:export-ydpi="101.3"
+       inkscape:export-filename="E:\PROGRAMACION\C#\Presupuestos\Scaling with mouse.png"><tspan
+         sodipodi:role="line"
+         id="tspan5914"
+         x="56.979908"
+         y="159.0387"
+         style="stroke-width:0.26458332">(</tspan></text>
+  </g>
+</svg>

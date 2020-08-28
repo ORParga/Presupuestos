@@ -1,0 +1,10 @@
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\bin\Debug\Presupuestos.exe.config
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\bin\Debug\Presupuestos.exe
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\bin\Debug\Presupuestos.pdb
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\obj\Debug\Presupuestos.csprojAssemblyReference.cache
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\obj\Debug\Presupuestos.Form1.resources
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\obj\Debug\Presupuestos.Properties.Resources.resources
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\obj\Debug\Presupuestos.csproj.GenerateResource.cache
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\obj\Debug\Presupuestos.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\obj\Debug\Presupuestos.exe
+E:\PROGRAMACION\C#\Presupuestos\Presupuestos\obj\Debug\Presupuestos.pdb
