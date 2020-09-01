@@ -22,7 +22,7 @@ namespace Presupuestos
         }
         public override string ToString()
         {
-            return "X=" + X + " Y=" + Y;
+            return "X=" + X.ToString("0.00") + " Y=" + Y.ToString("0.00");
         }
     }
 }

@@ -23,6 +23,7 @@ namespace Presupuestos
 
         Punto pointOrigin = new Punto(), pointEnd = new Punto();
         public Brush brushRed = new SolidBrush((Color.Red));
+        public Brush brushRedTrans = new SolidBrush(Color.FromArgb(63,255,0,0));
         public Brush brushBlack = new SolidBrush((Color.Black));
         Font font = new Font("Times New Roman", 10);
 
@@ -64,6 +65,8 @@ namespace Presupuestos
         }
         private void Draw(Graphics g)
         {
+            Point Mouse = PointToClient(Cursor.Position);
+
             int line = 0;
             Punto WAOrigin_Src = workArea.WorkAreaOriginSrc;
             g.DrawLine(pen, (float)WAOrigin_Src.X, 0, (float)WAOrigin_Src.X, ClientRectangle.Height);
@@ -71,24 +74,36 @@ namespace Presupuestos
             g.DrawString("WorkAreaOriginSrc=" + workArea.WorkAreaOriginSrc.ToString(), font, brushBlack, 300, 0);
             g.DrawString("ScreenOriginWrk=" + workArea.ScreenOriginWrk.ToString(), font, brushBlack, 300, 20);
             g.DrawString("Scale=" + workArea.Scale.ToString(), font, brushBlack, 550, 0);
-            g.DrawString("MouseWrk=" +workArea.ScreenToWork(PointToClient(Cursor.Position)).ToString(), font, brushBlack, 500, 500);
+            g.DrawString("MouseWrk=" +workArea.ScreenToWork(Mouse).ToString(), font, brushBlack, 500, 500);
             g.DrawString("MouseScr=" +PointToClient(Cursor.Position).ToString(), font, brushBlack, 500, 520);
             foreach (Area a in areaList)
             {
                 a.Draw(workArea, g, true);
 
-                g.DrawString(a.rectangleSrc.ToString(), font, new SolidBrush(a.debugColor), 0, line += 20);
+                g.DrawString(a.getClientAreaScr(workArea).ToString(), font, new SolidBrush(a.debugColor), 0, line += 20);
             }
 
             switch (mouseStatus)
             {
                 case MouseStatus.NONE:
+                    foreach (Area a in areaList)
+                    {
+                        if (a.MouseOver(workArea, Mouse.X, Mouse.Y))
+                        {
+                            g.FillRectangle(brushRedTrans, a.getClientAreaScr(workArea));
+                            a.DrawWidth(workArea, g);
+                            a.DrawHeight(workArea, g);
+
+                        }
+                    }
                     break;
                 case MouseStatus.CREATING_AREA:
                     if (Control.MouseButtons == MouseButtons.Left)
                     {
                         dragRectangle.Draw(workArea, g);
-                        g.DrawString(dragRectangle.rectangleSrc.ToString(), font, brushRed, 0, 0);
+                        dragRectangle.DrawWidth(workArea, g);
+                        dragRectangle.DrawHeight(workArea, g);
+                        g.DrawString(dragRectangle.getClientAreaScr(workArea).ToString(), font, brushRed, 0, 0);
                     }
                     else
                     {
@@ -150,6 +165,7 @@ namespace Presupuestos
                     }
                     break;
                 case MouseStatus.NONE:
+                    
                     break;
             }
             //Draw(g);

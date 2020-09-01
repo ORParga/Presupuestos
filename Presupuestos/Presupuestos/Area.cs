@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Drawing;
 using System.Linq;
 using System.Reflection.Emit;
+using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,10 +26,27 @@ namespace Presupuestos
         protected Pen penDeBug;
         protected Pen pen;//Defined in constructor;
         protected Brush brsh = new SolidBrush(Color.Red);
-        protected Font font = new Font("Times New Roman", 26);
 
-        public Rectangle rectangleSrc=new Rectangle();
+        protected int fontDimensionsSize;
+        protected Font fontDimensions;
+        protected int transDimensions;
+        protected Color colorDimensions;
+        protected Color colorBackDimensions;
+        protected Brush brushDimensions;
+        protected Brush brushBackDimensions;
 
+        protected Rectangle ClientAreaScr = new Rectangle();
+
+        public Rectangle getClientAreaScr (WorkArea workArea)
+        {
+
+            Punto WAO_Src = workArea.WorkAreaOriginSrc;
+            ClientAreaScr.X = (int)(((double)clientAreaWrk.X * workArea.Scale) + WAO_Src.X);
+            ClientAreaScr.Y = (int)(((double)clientAreaWrk.Y * workArea.Scale) + WAO_Src.Y);
+            ClientAreaScr.Width = (int)(clientAreaWrk.Width * workArea.Scale);
+            ClientAreaScr.Height = (int)(clientAreaWrk.Height * workArea.Scale);
+            return ClientAreaScr;
+        }
         float lineWidth = 1;
 
         public Area()
@@ -44,6 +63,14 @@ namespace Presupuestos
             penDefault = new Pen(Color.Black, lineWidth);
             penDeBug = new Pen(debugColor_prv, lineWidth);
             pen = penDefault;
+
+            fontDimensionsSize = 12;
+            fontDimensions = new Font("Times New Roman", fontDimensionsSize);
+            transDimensions = 170;
+            colorDimensions = Color.FromArgb(transDimensions, Color.Red.R, Color.Red.G, Color.Red.B);
+            colorBackDimensions = Color.FromArgb(transDimensions, Color.Pink.R, Color.Pink.G, Color.Pink.B);
+            brushDimensions = new SolidBrush(colorDimensions);
+            brushBackDimensions = new SolidBrush(colorBackDimensions);
         }
         public bool IsMouseOver()
         {
@@ -80,10 +107,10 @@ namespace Presupuestos
                 MouseP2_Y = comodin;
             }
 
-            MouseP1Wrk.X = (int)(workArea.WorkAreaOriginSrc.X + (MouseP1_X * workArea.Scale));
-            MouseP1Wrk.Y = (int)(workArea.WorkAreaOriginSrc.Y + (MouseP1_Y * workArea.Scale));
-            MouseP2Wrk.X = (int)(workArea.WorkAreaOriginSrc.X + (MouseP2_X * workArea.Scale));
-            MouseP2Wrk.Y = (int)(workArea.WorkAreaOriginSrc.Y + (MouseP2_Y * workArea.Scale));
+            MouseP1Wrk.X = (workArea.ScreenOriginWrk.X + (MouseP1_X / workArea.Scale));
+            MouseP1Wrk.Y = (workArea.ScreenOriginWrk.Y + (MouseP1_Y / workArea.Scale));
+            MouseP2Wrk.X = (workArea.ScreenOriginWrk.X + (MouseP2_X / workArea.Scale));
+            MouseP2Wrk.Y = (workArea.ScreenOriginWrk.Y + (MouseP2_Y / workArea.Scale));
 
 
 
@@ -95,12 +122,49 @@ namespace Presupuestos
         public void Draw(WorkArea workArea, Graphics g)
         {
             Punto WAO_Src = workArea.WorkAreaOriginSrc;
-            rectangleSrc.X = (int)(((double)clientAreaWrk.X* workArea.Scale) + WAO_Src.X );
-            rectangleSrc.Y = (int)(((double)clientAreaWrk.Y* workArea.Scale) + WAO_Src.Y );
-            rectangleSrc.Width = (int)(clientAreaWrk.Width * workArea.Scale);
-            rectangleSrc.Height = (int)(clientAreaWrk.Height * workArea.Scale);
 
-            g.DrawRectangle(pen, rectangleSrc);
+            ClientAreaScr = getClientAreaScr( workArea);
+
+            g.DrawRectangle(pen, ClientAreaScr);
+        }
+        public void DrawWidth(WorkArea workArea, Graphics g)
+        {
+            String Text =clientAreaWrk.Width.ToString("0.00");
+            ClientAreaScr = getClientAreaScr(workArea);
+            SizeF sizeText=g.MeasureString(Text, fontDimensions);
+            Rectangle textRectangle = new Rectangle(ClientAreaScr.X, ClientAreaScr.Y - (int)sizeText.Height,  (int)sizeText.Width+10, (int)sizeText.Height);
+            //g.FillRectangle(brushBackDimensions, textRectangle);
+            g.DrawString(Text , fontDimensions, brushDimensions, textRectangle, StringFormat.GenericDefault);
+        }
+        public void DrawHeight(WorkArea workArea, Graphics g)
+        {
+            String Text = clientAreaWrk.Height.ToString("0.00");
+            ClientAreaScr = getClientAreaScr(workArea);
+            Rectangle textRectangle = new Rectangle(ClientAreaScr.X, ClientAreaScr.Y - fontDimensionsSize - 4, ClientAreaScr.Width, fontDimensionsSize + 4);
+            //g.DrawString("" + clientAreaWrk.Height.ToString("0.00"), fontDimensions, brsh, textRectangle, StringFormat.GenericDefault);
+            drawRotatedText(g, Text, ClientAreaScr.X, ClientAreaScr.Y);
+        }
+        public bool MouseOver (WorkArea workArea, int MouseX,int MouseY)
+        {
+
+            Punto MouseWrk = new Punto();
+            MouseWrk.X = (int)(workArea.ScreenOriginWrk.X + (MouseX / workArea.Scale));
+            MouseWrk.Y = (int)(workArea.ScreenOriginWrk.Y + (MouseY / workArea.Scale));
+
+            if (MouseWrk.X > clientAreaWrk.X)
+            {
+                if(MouseWrk.Y > clientAreaWrk.Y)
+                {
+                    if(MouseWrk.X<clientAreaWrk.Right)
+                    {
+                        if (MouseWrk.Y < clientAreaWrk.Bottom)
+                        {
+                            return true;
+                        }
+                    }
+                }
+            }
+            return false;
         }
         public void Draw(WorkArea workArea, Graphics g,bool Debugging)
         {
@@ -111,6 +175,32 @@ namespace Presupuestos
         public object Clone()
         {
             return this.MemberwiseClone();
+        }
+        /// <summary>
+        /// DEvuelve el tamaño del texto
+        /// </summary>
+        /// <param name="g">objeto graphics donde se dibuja el texto</param>
+        /// <param name="text">texto a dibujar</param>
+        /// <param name="x">coordenada x donde se dibuja( en realidad se dibuja a la izquierda de esta coordenada
+        /// teniendo en cuenta la altura del texto</param>
+        /// <param name="y">lugar donde se dibuja el texto</param>
+        /// <returns></returns>
+        public SizeF drawRotatedText(Graphics g,string text,int x,int y)
+        {
+            //Bitmap bmp2 = new Bitmap(200, 200, g);
+            Bitmap bmp2 = new Bitmap(200, 200, System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+            Graphics intGraphics=Graphics.FromImage(bmp2);
+            intGraphics.Clear(Color.White);
+            //intGraphics.Clear(colorBackDimensions);
+            SizeF size = intGraphics.MeasureString(text, fontDimensions); // Get size of rotated text (bounding box)
+            intGraphics.TranslateTransform(size.Height, 0); // Set rotation point
+            intGraphics.RotateTransform(90); // Rotate text
+            intGraphics.DrawString(text, fontDimensions, brushDimensions, new PointF(0, 0));
+            intGraphics.ResetTransform(); // Only needed if you reuse the Graphics object for multiple calls to DrawString
+            g.DrawImage(bmp2, x- size.Height, y, new RectangleF(0,0,size.Height ,size.Width),GraphicsUnit.Pixel);
+            intGraphics.Dispose();
+
+            return size;
         }
     }
 }
