@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Presupuestos
 {
-    class Punto
+    public class Punto
     {
         public double X;
         public double Y;
@@ -23,6 +23,10 @@ namespace Presupuestos
         public override string ToString()
         {
             return "X=" + X.ToString("0.00") + " Y=" + Y.ToString("0.00");
+        }
+        public  string ToString(string format)
+        {
+            return "X=" + X.ToString(format) + " Y=" + Y.ToString(format);
         }
     }
 }

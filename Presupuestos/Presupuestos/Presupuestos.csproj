@@ -48,19 +48,25 @@
   <ItemGroup>
     <Compile Include="Area.cs" />
     <Compile Include="BasicColor.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="frmPresupuestos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmPresupuestos.Designer.cs">
+      <DependentUpon>frmPresupuestos.cs</DependentUpon>
     </Compile>
     <Compile Include="Garbage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Punto.cs" />
     <Compile Include="WorkArea.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="WorkPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WorkPanel.Designer.cs">
+      <DependentUpon>WorkPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmPresupuestos.resx">
+      <DependentUpon>frmPresupuestos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

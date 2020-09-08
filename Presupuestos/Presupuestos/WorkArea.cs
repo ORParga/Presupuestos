@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace Presupuestos
 {
-    class WorkArea
+    public class WorkArea
     {
+        public PointF pf;
         public double Scale=1;
         double ScaleSpeed = 0.0005;
         private Punto WorkAreaOriginSrc_prv = new Punto(0, 0);
