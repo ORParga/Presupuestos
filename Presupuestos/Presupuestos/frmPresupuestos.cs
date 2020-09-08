@@ -18,6 +18,9 @@ namespace Presupuestos
         public frmPresupuestos()
         {
             InitializeComponent();
+            // Set KeyPreview object to true to allow the form to process 
+            // the key before the control with focus processes it.
+            this.KeyPreview = true;
         }
 
         private void workPanel1_MouseMove(object sender, MouseEventArgs e)
@@ -52,6 +55,25 @@ namespace Presupuestos
         {
             workPanel1.ShowWorkValues = btnShowWork.Checked;
             workPanel1.Invalidate();
+
+        }
+
+        private void frmPresupuestos_KeyDown(object sender, KeyEventArgs e)
+        {
+            //System.Diagnostics.Debug.WriteLine("KeyDown " + e.KeyCode);
+            workPanel1.KeyPressed(sender, e);
+        }
+
+        private void frmPresupuestos_KeyUp(object sender, KeyEventArgs e)
+        {
+            //System.Diagnostics.Debug.WriteLine("KeyUp " + e.KeyCode);
+            workPanel1.KeyReleased(sender, e);
+
+        }
+
+        private void frmPresupuestos_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            //System.Diagnostics.Debug.WriteLine("KeyPress "+e.KeyChar);
 
         }
     }
